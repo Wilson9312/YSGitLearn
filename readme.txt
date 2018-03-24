@@ -6,5 +6,6 @@ hehehehee
 
 add a branch 'dev'
 
-add a branch 'feature1' to learn how to resolve conflict
+change in a branch 'feature1' to learn how to resolve conflict
+
  
