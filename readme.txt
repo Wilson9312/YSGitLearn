@@ -4,4 +4,7 @@ ahhahahahaah
 
 hehehehee
 
-add a branch 'dev' 
+add a branch 'dev'
+
+add a branch 'feature1' to learn how to resolve conflict
+ 
